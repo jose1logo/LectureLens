@@ -1,0 +1,5 @@
+{
+  "name": "LectureLens",
+  "description": "Digitize and organize handwritten notes and PDFs into clean Markdown and JSON.",
+  "requestFramePermissions": []
+}
